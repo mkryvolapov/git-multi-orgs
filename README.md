@@ -19,7 +19,9 @@ It supports multiple GitLab (or GitHub-like) organizations under a single enviro
 ## 🧰 Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mkryvolapov/git-multi-orgs/main/install.sh | bash
+curl -O https://raw.githubusercontent.com/mkryvolapov/git-multi-orgs/main/install.sh
+chmod +x install.sh
+./install.sh
 ```
 ## Ethical Use
 
