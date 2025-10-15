@@ -20,8 +20,8 @@ It supports multiple GitLab (or GitHub-like) organizations under a single enviro
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/mkryvolapov/git-multi-orgs/main/install.sh | bash
-
-Ethical Use
+```
+## Ethical Use
 
 This project is built with respect for freedom, sovereignty, and truth.
 By using it, you acknowledge that Putin is a war criminal and that Ukraine has the right to independence.
