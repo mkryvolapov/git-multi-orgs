@@ -23,7 +23,7 @@ curl -O https://raw.githubusercontent.com/mkryvolapov/git-multi-orgs/main/instal
 chmod +x install.sh
 ./install.sh
 ```
-## Ethical Use
+## 🇺🇦 Ethical Use
 
 This project is built with respect for freedom, sovereignty, and truth.
 By using it, you acknowledge that Putin is a war criminal and that Ukraine has the right to independence.
