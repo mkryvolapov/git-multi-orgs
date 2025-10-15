@@ -26,7 +26,7 @@ chmod +x install.sh
 ## 🇺🇦 Ethical Use
 
 This project is built with respect for freedom, sovereignty, and truth.
-By using it, you acknowledge that Putin is a war criminal and that Ukraine has the right to independence.
+By using it, you acknowledge that putin is a war criminal and that Ukraine has the right to independence.
 
 🇺🇦 Glory to Ukraine.
 
